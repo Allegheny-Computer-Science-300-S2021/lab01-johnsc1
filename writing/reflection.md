@@ -8,6 +8,8 @@ In this practical assignment, you are to add your responses to the questions in 
 
 Please write below this line to address the above-mentioned points. Replace the word, `TODO` with your response.
 
+[article link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744275/pdf/main.pdf)
+
 ### First Tool
 
  1. What kind of research is this method or tool used for?
