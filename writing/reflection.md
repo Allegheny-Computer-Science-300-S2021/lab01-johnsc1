@@ -13,8 +13,8 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### First Tool - Next-Generation Sequencing
 
  1. What kind of research is this method or tool used for?
-      It is used in studying the evolution of a genetic sequence over time,
-      especially trying to predict the evolution of viruses and
+      This method is used in studying the evolution of a genetic sequence
+      over time, especially trying to predict the evolution of viruses and
       therefore better understand how to control their spread or develop
       treatment and preventive medications that will work despite this
       evolution.
