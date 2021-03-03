@@ -25,12 +25,21 @@ Please write below this line to address the above-mentioned points. Replace the 
       this process by using it to predict the changes in the DNA that
       will develop as the organism evolves. The data to complete this
       process can be taken directly from medical samples, or from
-      existing data about the genetic material. 
+      existing data about the genetic material.
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+      In the case of major health-related events that stem from another
+      organism, it could save many lives to have this method because it
+      gives the eventual ability to be one step ahead of the problem.
+      It also saves time that could be spend developing treatments or
+      preventive medications that could become obsolete if the direction
+      the virus is evolving in is not understood at the time of creating
+      these treatments. Knowledge gathered from this method can help
+      increase confidence in the treatments to work as expected, and
+      give understanding to when a treatment may need to be changed to
+      accommodate the evolution in the genetic material.
 
- 4. What undesirable consequences could result fr,om the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
 
 
 ### Second Tool - Genome-Wide Association Study
