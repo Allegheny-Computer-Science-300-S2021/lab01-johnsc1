@@ -20,7 +20,12 @@ Please write below this line to address the above-mentioned points. Replace the 
       evolution.
 
  2. How does this method or tool work? What does it do?
-
+      This is the method of identifying the DNA sequence of the organism,
+      and writing this out in full or partially, and then furthering
+      this process by using it to predict the changes in the DNA that
+      will develop as the organism evolves. The data to complete this
+      process can be taken directly from medical samples, or from
+      existing data about the genetic material. 
 
  3. Why do you think that this method or tool was necessary to develop?
  `TODO`
