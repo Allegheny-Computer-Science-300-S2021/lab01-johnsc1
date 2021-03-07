@@ -44,6 +44,10 @@ accommodate the evolution.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
 
+If the data collected through this method is not shared openly, it could result
+in some countries or groups of people being at greater risk of a condition,
+disease, or bacteria when they knowledge necessary to treat it already
+exists.
 
 ### Second Tool - Genome-Wide Association Study
 
