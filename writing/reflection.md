@@ -54,10 +54,13 @@ exists.
  1. What kind of research is this method or tool used for?
 
 
+
  2. How does this method or tool work? What does it do?
 
 
+
  3. Why do you think that this method or tool was necessary to develop?
+
 
 
  4. What undesirable consequences could result from the misuse of this method of tool?
