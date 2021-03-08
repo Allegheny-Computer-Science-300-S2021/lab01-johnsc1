@@ -56,7 +56,8 @@ exists.
 It is used to identify the similarities between different genomes, which
 helps identify closely related organisms. It first requires
 the completion of whole genome sequencing of all genomes that will be
-compared.
+compared, to provide the data necessary to assess the similarities
+between the genetic material of the organisms.
 
  2. How does this method or tool work? What does it do?
 
@@ -70,6 +71,10 @@ specific illness.
 
  3. Why do you think that this method or tool was necessary to develop?
 
-
+It helps potentially saves lives in identifying who may need medical
+attention due to an illness that is more dangerous for them, and creating
+treatments that are as effective as possible, and creating as accurate
+as possible tests. It is also necessary to accurately classify new
+organisms, and this method would be helpful in that process.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
