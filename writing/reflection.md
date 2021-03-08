@@ -6,7 +6,7 @@
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
-Please write below this line to address the above-mentioned points. Replace the word, `todo` with your response.
+Please write below this line to address the above-mentioned points. Replace the word 'TO DO'  with your response.
 
 [article link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744275/pdf/main.pdf)
 
@@ -79,4 +79,7 @@ organisms, and this method would be helpful in that process.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
 
-Lack of attention to detail in using this method could result in
+Lack of attention to detail in using this method could result in incorrect
+classification of organisms, which could lead to further issues in completing
+genome-wide association study because using it for this purpose requires
+comparison to organisms that have already been classified.
