@@ -53,11 +53,20 @@ exists.
 
  1. What kind of research is this method or tool used for?
 
-
+It is used to identify the similarities between different genomes, which
+helps identify closely related organisms. It first requires
+the completion of whole genome sequencing of all genomes that will be
+compared.
 
  2. How does this method or tool work? What does it do?
 
-
+It can be used in studying harmful organisms, such as in the case of
+COVID-19, confirming that different version of the virus are indeed
+a form of the virus when their genetics differ slightly. This helps
+specifically with having as accurate as possible tests and as effective
+as possible vaccines. It can also help identify if certain parts of an
+organism's genetics increase the likeliness of them contracting a
+specific illness.
 
  3. Why do you think that this method or tool was necessary to develop?
 
